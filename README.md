@@ -1,6 +1,6 @@
 # react-news-portal
 ### To start the Application in your local system follow these steps : 
--npm init ( To Download all the necessary packages )
+- npm init ( To Download all the necessary packages )
 - npm start (To start the Application
 
   ## Functionalities I have Added to the news portal web App :
